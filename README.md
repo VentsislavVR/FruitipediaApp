@@ -1,0 +1,2 @@
+# FruitipediaApp
+Basic Django app
